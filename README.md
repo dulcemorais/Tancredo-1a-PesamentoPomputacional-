@@ -1,2 +1,2 @@
-# Tancredo-1a-PesamentoPomputacional-
-site desenvolvido em HTML e CSS
+# Tancredo-1A-PensamentoComputacional
+Site desenvolvido em HTML e CSS
